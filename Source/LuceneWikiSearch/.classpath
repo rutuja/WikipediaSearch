@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/malinik/Java/workspacce/LuceneWikisearch/lucene-core-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/malinik/Java/workspacce/LuceneWikisearch/nekohtml-1.9.11.jar"/>
+	<classpathentry kind="lib" path="/home/malinik/Java/workspacce/LuceneWikiSearch/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
